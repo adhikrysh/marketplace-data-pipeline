@@ -1,0 +1,201 @@
+customer_id,first_name,last_name,email,join_date,city
+c001,Michael,Smith,michael.smith@example.com,2023-01-15,Singapore
+c002,Jennifer,Johnson,j.johnson@workplace.net,02/20/2023, Kuala Lumpur
+c003,Robert,Williams,robert_w@mail.com,2023-03-10,Singapore
+c004,Maria,Brown,maria.b@example.com,Mar 05, 2023,Jakarta
+c005,David,Jones,david.jones@email.org,2023-04-22,Bangkok
+c006,Patricia,Garcia,,2023-05-30,Manila
+c007,James,Miller,james.m@workplace.net,06/12/2023,nan
+c008,Linda,Davis,l.davis@mail.com,2023-07-19,Singapore
+c009, John ,Rodriguez,john.r@example.com,2023-08-01,Ho Chi Minh City
+c010,Elizabeth,Martinez,e.martinez@email.org,Aug 22, 2023,Singapore
+c011,William,Hernandez,william.h@workplace.net,2023-09-14,kuala lumpur
+c012,Barbara,Lopez,b.lopez@mail.com,10/05/2023,Jakarta
+c013,Richard,Gonzalez,richard.g@example.com,2023-11-28,
+c014,Susan,Wilson,susan.w@email.org,Dec 19, 2023,Bangkok
+c015,Joseph,Anderson,j.anderson@workplace.net,2024-01-10,Manila
+c016,Jessica,Thomas,jessica.t@mail.com,2024-02-03,Singapore
+c017,Thomas,Taylor,thomas.t@example.com,03/25/2024,Ho Chi Minh City
+c018,Sarah,Moore,sarah.m@email.org,2024-04-16,
+c019,Charles,Jackson,c.jackson@workplace.net,May 07, 2024,SINGAPORE
+c020,Karen,Martin,k.martin@mail.com,2024-06-29,Kuala Lumpur
+c021,Christopher,Lee,chris.l@example.com,2023-01-22,Jakarta
+c022,Nancy,Perez,nancy.p@email.org,02/14/2023,Bangkok
+c023,Daniel,Thompson,d.thompson@workplace.net,2023-03-08,Manila
+c024,Lisa,White,lisa.w@mail.com,Apr 01, 2023,Singapore
+c025,Matthew,Harris,matthew.h@example.com,2023-05-24,Ho Chi Minh City
+c026,Betty,Sanchez,,2023-06-15,singapore
+c027,Anthony,Clark,anthony.c@email.org,07/07/2023,Kuala Lumpur
+c028,Sandra,Ramirez,s.ramirez@workplace.net,2023-08-30,Jakarta
+c029,Mark,Lewis,mark.l@mail.com,Sep 21, 2023,nan
+c030,Ashley,Robinson,ashley.r@example.com,2023-10-13,Bangkok
+c031,Steven,Walker,steven.w@email.org,11/04/2023,Manila
+c032,Emily,Young,emily.y@workplace.net,Dec 27, 2023,Singapore
+c033,Paul,Allen,paul.a@mail.com,2024-01-18,Ho Chi Minh City
+c034,Amanda,King,amanda.k@example.com,2024-02-09,
+c035,Andrew,Wright,a.wright@email.org,Mar 03, 2024,Kuala Lumpur
+c036,Melissa,Scott,melissa.s@workplace.net,04/25/2024,Jakarta
+c037,Joshua,Green,j.green@mail.com,2024-05-17,Bangkok
+c038,Deborah,Baker,deborah.b@example.com,Jun 08, 2024,Manila
+c039,Kevin,Adams,k.adams@email.org,2023-02-01,Singapore
+c040,Stephanie,Nelson,stephanie.n@workplace.net,03/23/2023,KUALA LUMPUR
+c041,Brian,Carter,brian.c@mail.com,2023-04-14,Jakarta
+c042,Rebecca,Mitchell,rebecca.m@example.com,May 06, 2023,Bangkok
+c043,George,Perez,g.perez@email.org,2023-06-28,Manila
+c044,Laura,Roberts,,2023-07-20,Singapore
+c045,Edward,Turner,edward.t@workplace.net,08/11/2023,Ho Chi Minh City
+c046,Cynthia,Phillips,cynthia.p@mail.com,2023-09-02,
+c047,Ronald,Campbell,r.campbell@example.com,Oct 25, 2023,Kuala Lumpur
+c048,Angela,Parker,angela.p@email.org,2023-11-16,Jakarta
+c049,Timothy,Evans,timothy.e@workplace.net,Dec 08, 2023,Bangkok
+c050,Amy,Edwards,amy.e@mail.com,2024-01-30,Manila
+c051,Jason,Collins,jason.c@example.com,2024-02-21,Singapore
+c052,Kathleen,Stewart,k.stewart@email.org,03/14/2024,Ho Chi Minh City
+c053,Jeffrey,Sanchez,jeffrey.s@workplace.net,2024-04-05,
+c054,Sharon,Morris,sharon.m@mail.com,May 28, 2024,Singapore
+c055,Ryan,Rogers,ryan.r@example.com,2024-06-19,Kuala Lumpur
+c056,Gary,Reed,gary.r@email.org,2023-03-05,Jakarta
+c057,Michelle,Cook,michelle.c@workplace.net,Apr 27, 2023,Bangkok
+c058,Eric,Morgan,e.morgan@mail.com,2023-05-19,Manila
+c059,Kimberly,Bell,kimberly.b@example.com,06/10/2023,Singapore
+c060,Stephen,Murphy,stephen.m@email.org,2023-07-02,Ho Chi Minh City
+c061,Dennis,Bailey,,2023-08-24,Singapore
+c062,Anna,Rivera,anna.r@workplace.net,Sep 15, 2023,Kuala Lumpur
+c063,Larry,Cooper,larry.c@mail.com,2023-10-07,Jakarta
+c064,Brenda,Richardson,brenda.r@example.com,Nov 29, 2023,nan
+c065,Justin,Cox,j.cox@email.org,2023-12-21,Bangkok
+c066,Pamela,Howard,pamela.h@workplace.net,01/12/2024,Manila
+c067,Scott,Ward,scott.w@mail.com,2024-02-03,Singapore
+c068,Nicole,Torres,nicole.t@example.com,Mar 26, 2024,Ho Chi Minh City
+c069,Brandon,Peterson,b.peterson@email.org,2024-04-17,
+c070,Christine,Gray,christine.g@workplace.net,May 09, 2024,Kuala Lumpur
+c071,Benjamin,Ramirez,benjamin.r@mail.com,2024-06-30,Jakarta
+c072,Samantha,James,samantha.j@example.com,2023-04-01,Bangkok
+c073,Gregory,Watson,g.watson@email.org,May 24, 2023,Manila
+c074,Helen,Brooks,helen.b@workplace.net,06/15/2023,Singapore
+c075,Frank,Kelly,frank.k@mail.com,2023-07-07,Ho Chi Minh City
+c076,Debra,Sanders,debra.s@example.com,Aug 29, 2023,
+c077,Raymond,Price,raymond.p@email.org,2023-09-20,Kuala Lumpur
+c078,Janet,Bennett,,2023-10-12,Jakarta
+c079,Patrick,Wood,patrick.w@workplace.net,Nov 03, 2023,Bangkok
+c080,Maria,Barnes,maria.b@mail.com,2023-12-26,Manila
+c081,Jack,Ross,j.ross@example.com,01/17/2024,Singapore
+c082,Joyce,Henderson,joyce.h@email.org,2024-02-08,Ho Chi Minh City
+c083,Walter,Coleman,walter.c@workplace.net,Mar 01, 2024,
+c084,Diane,Jenkins,diane.j@mail.com,2024-04-23,Singapore
+c085,Jerry,Perry,jerry.p@example.com,May 15, 2024,Kuala Lumpur
+c086,Julie,Powell,julie.p@email.org,2024-06-06,Jakarta
+c087,Henry,Long,henry.l@workplace.net,2023-05-11,Bangkok
+c088,Catherine,Patterson,catherine.p@mail.com,Jun 02, 2023,Manila
+c089,Arthur,Hughes,arthur.h@example.com,07/25/2023,Singapore
+c090,Teresa,Flores,teresa.f@email.org,2023-08-16,Ho Chi Minh City
+c091,Harold,Washington,harold.w@workplace.net,Sep 07, 2023,
+c092,Gloria,Butler,,2023-10-30,Kuala Lumpur
+c093,Carl,Simmons,carl.s@mail.com,2023-11-21,Jakarta
+c094,Ann,Foster,ann.f@example.com,Dec 13, 2023,Bangkok
+c095,Jonathan,Gonzales,j.gonzales@email.org,2024-01-04,Manila
+c096,Jean,Bryant,jean.b@workplace.net,02/26/2024,Singapore
+c097,Willie,Alexander,willie.a@mail.com,2024-03-19,Ho Chi Minh City
+c098,Alice,Russell,alice.r@example.com,Apr 10, 2024,
+c099,Billy,Griffin,billy.g@email.org,2024-05-02,Singapore
+c100,Joan,Diaz,joan.d@workplace.net,Jun 24, 2024,Kuala Lumpur
+c101,Denise,Hayes,denise.h@mail.com,2023-06-08,Jakarta
+c102,Adam,Myers,adam.m@example.com,07/31/2023,Bangkok
+c103,Marilyn,Ford,marilyn.f@email.org,2023-08-22,Manila
+c104,Roy,Hamilton,roy.h@workplace.net,Sep 13, 2023,Singapore
+c105,Beverly,Graham,beverly.g@mail.com,2023-10-05,Ho Chi Minh City
+c106,Teresa,Sullivan,,2023-11-27,Singapore
+c107,Randy,Wallace,randy.w@example.com,Dec 19, 2023,Kuala Lumpur
+c108,Doris,Woods,doris.w@email.org,2024-01-10,Jakarta
+c109,Juan,Cole,juan.c@workplace.net,02/01/2024,nan
+c110,Louis,West,louis.w@mail.com,2024-03-24,Bangkok
+c111,Russell,Jordan,r.jordan@example.com,Apr 15, 2024,Manila
+c112,Lori,Owens,lori.o@email.org,2024-05-07,Singapore
+c113,Bobby,Reynolds,bobby.r@workplace.net,Jun 29, 2024,Ho Chi Minh City
+c114,Philip,Fisher,p.fisher@mail.com,2023-07-15,
+c115,Jane,Ellis,jane.e@example.com,08/06/2023,Kuala Lumpur
+c116,Jose,Harrison,jose.h@email.org,2023-09-28,Jakarta
+c117,Judy,Gibson,judy.g@workplace.net,Oct 20, 2023,Bangkok
+c118,Albert,Mcdonald,albert.m@mail.com,2023-11-11,Manila
+c119,Clarence,Cruz,clarence.c@example.com,Dec 03, 2023,Singapore
+c120,Sara,Marshall,sara.m@email.org,2024-01-25,Ho Chi Minh City
+c121,Chris,Ortiz,,2024-02-16,
+c122,Anne,Gomez,anne.g@workplace.net,Mar 09, 2024,Singapore
+c123,David,Murray,david.m@mail.com,2024-04-30,Kuala Lumpur
+c124,Marie,Freeman,marie.f@example.com,May 22, 2024,Jakarta
+c125,Earl,Wells,earl.w@email.org,2024-06-13,Bangkok
+c126,Diana,Webb,diana.w@workplace.net,2023-08-01,Manila
+c127,Keith,Simpson,keith.s@mail.com,Sep 23, 2023,Singapore
+c128,Janice,Stevens,janice.s@example.com,2023-10-15,Ho Chi Minh City
+c129,Roger,Tucker,roger.t@email.org,11/06/2023,
+c130,Evelyn,Porter,evelyn.p@workplace.net,Dec 29, 2023,Kuala Lumpur
+c131,Wayne,Hunter,wayne.h@mail.com,2024-01-20,Jakarta
+c132,Christina,Hicks,christina.h@example.com,02/11/2024,Bangkok
+c133,Ralph,Crawford,ralph.c@email.org,2024-03-04,Manila
+c134,Joan,Henry,joan.h@workplace.net,Apr 26, 2024,Singapore
+c135,Lawrence,Boyd,lawrence.b@mail.com,2024-05-18,Ho Chi Minh City
+c136,Cheryl,Mason,cheryl.m@example.com,Jun 09, 2024,
+c137,Joe,Morales,,2023-09-08,Singapore
+c138,Mildred,Kennedy,mildred.k@email.org,2023-10-31,Kuala Lumpur
+c139,Samuel,Warren,samuel.w@workplace.net,Nov 22, 2023,Jakarta
+c140,Martha,Dixon,martha.d@mail.com,2023-12-14,Bangkok
+c141,Eugene,Ramos,eugene.r@example.com,01/05/2024,Manila
+c142,Gloria,Reyes,gloria.r@email.org,2024-02-27,Singapore
+c143,Russell,Burns,r.burns@workplace.net,Mar 20, 2024,Ho Chi Minh City
+c144,Judith,Gordon,judith.g@mail.com,2024-04-11,
+c145,Terry,Shaw,terry.s@example.com,May 03, 2024,Kuala Lumpur
+c146,Jacqueline,Holmes,j.holmes@email.org,2024-06-25,Jakarta
+c147,Howard,Rice,howard.r@workplace.net,2023-10-01,Bangkok
+c148,Shirley,Robertson,shirley.r@mail.com,Nov 23, 2023,Manila
+c149,Victor,Hunt,victor.h@example.com,2023-12-15,Singapore
+c150,Frances,Black,frances.b@email.org,01/06/2024,Ho Chi Minh City
+c151,Lois,Daniels,lois.d@workplace.net,2024-02-28,
+c152,Shawn,Palmer,,2024-03-21,Kuala Lumpur
+c153,Norma,Mills,norma.m@mail.com,2024-04-12,Jakarta
+c154,Alan,Nichols,alan.n@example.com,May 04, 2024,Bangkok
+c155,Martin,Grant,martin.g@email.org,2024-06-26,Manila
+c156,Rose,Knight,rose.k@workplace.net,2023-11-09,Singapore
+c157,Katherine,Ferguson,k.ferguson@mail.com,Dec 01, 2023,Ho Chi Minh City
+c158,Phillip,Rose,phillip.r@example.com,2024-01-23,
+c159,Virginia,Stone,virginia.s@email.org,02/14/2024,Kuala Lumpur
+c160,Jesse,Hawkins,jesse.h@workplace.net,2024-03-07,Jakarta
+c161,Janice,Dunn,janice.d@mail.com,Apr 29, 2024,Bangkok
+c162,Patrick,Perkins,patrick.p@example.com,2024-05-21,Manila
+c163,Wayne,Hudson,w.hudson@email.org,2024-06-12,Singapore
+c164,Billy,Spencer,billy.s@workplace.net,2023-12-05,Ho Chi Minh City
+c165,Bruce,Gardner,bruce.g@mail.com,2024-01-27,
+c166,Bryan,Stephens,bryan.s@example.com,02/18/2024,Kuala Lumpur
+c167,Ralph,Payne,ralph.p@email.org,2024-03-11,Jakarta
+c168,Roy,Pierce,roy.p@workplace.net,Apr 02, 2024,Bangkok
+c169,Virginia,Berry,virginia.b@mail.com,2024-05-25,Manila
+c170,Albert,Matthews,albert.m@example.com,2024-06-16,Singapore
+c171,Gerald,Arnold,gerald.a@email.org,2024-01-01,Ho Chi Minh City
+c172,Theresa,Wagner,theresa.w@workplace.net,02/23/2024,
+c173,Joan,Willis,joan.w@mail.com,2024-03-16,Kuala Lumpur
+c174,Mildred,Ray,mildred.r@example.com,Apr 07, 2024,Jakarta
+c175,Arthur,Watkins,arthur.w@email.org,2024-05-30,Bangkok
+c176,Lori,Olson,lori.o@workplace.net,2024-06-21,Manila
+c177,Lawrence,Carroll,lawrence.c@mail.com,2024-02-05,Singapore
+c178,Denise,Duncan,denise.d@example.com,03/29/2024,Ho Chi Minh City
+c179,Randy,Armstrong,randy.a@email.org,2024-04-20,
+c180,Frances,Williamson,frances.w@workplace.net,May 12, 2024,Kuala Lumpur
+c181,Ann,Hart,ann.h@mail.com,2024-06-03,Jakarta
+c182,Carl,Cunningham,carl.c@example.com,2024-03-01,Bangkok
+c183,Shawn,Lane,shawn.l@email.org,Apr 23, 2024,Manila
+c184,Lois,Riley,lois.r@workplace.net,2024-05-15,Singapore
+c185,Philip,Andrews,philip.a@mail.com,Jun 06, 2024,Ho Chi Minh City
+c186,Bobby,Fox,,2024-04-10,
+c187,Russell,Warren,russell.w@example.com,2024-05-02,Kuala Lumpur
+c188,Louis,Franklin,louis.f@email.org,Jun 24, 2024,Jakarta
+c189,Juan,Lawson,juan.l@workplace.net,2024-05-05,Bangkok
+c190,Doris,Peters,doris.p@mail.com,2024-06-27,Manila
+c191,Randy,Snyder,randy.s@example.com,2024-06-01,Singapore
+c192,Teresa,Meyer,teresa.m@email.org,2024-06-02,Ho Chi Minh City
+c193,Harold,Lynch,,2024-06-03,
+c194,Gloria,Hunter,gloria.h@workplace.net,2024-06-04,Kuala Lumpur
+c195,Carl,Austin,carl.a@mail.com,2024-06-05,Jakarta
+c196,Ann,Ford,ann.f@example.com,2024-06-06,Bangkok
+c197,Jonathan,George,j.george@email.org,2024-06-07,Manila
+c198,Jean,Frazier,jean.f@workplace.net,2024-06-08,Singapore
+c199,Willie,Mendoza,willie.m@mail.com,2024-06-09,Ho Chi Minh City
+c200,Alice,Hanson,alice.h@example.com,2024-06-10,Singapore

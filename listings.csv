@@ -1,0 +1,101 @@
+listing_id,product_name,category,seller_id,price,stock_quantity,listing_date
+L001,AeroGlow LED Desk Lamp,Electronics,InfluencerX,"$29.99",150,2023-01-01
+L002,QuantumCore Gaming Mouse,Electronics,TechGuruTom,"$75.50",80,2023-01-15
+L003,Silk & Suede Throw Pillow,Homeware,CozyHome," $25.00 ",200,2023-02-01
+L004,VividBloom Floral Scarf,Fashion,StyleBySophie,"$19.99",300,2023-02-20
+L005,Gourmet Espresso Beans (1kg),Groceries,TheDailyGrind,"$22.00",500,Mar 01, 2023
+L006,The Art of Data Engineering,Books,InfluencerX,"$49.95",120,03/15/2023
+L007,Zenith Wireless Earbuds,electronics,TechGuruTom,"$129.00",100,2023-04-10
+L008,Hand-Woven Area Rug,Homeware,CozyHome,"$199.50",40,2023-04-20
+L009,Urban Explorer Backpack, Fashion ,StyleBySophie,"$89.99",180,May 05, 2023
+L010,Organic Quinoa (500g),Groceries,TheDailyGrind,"$8.50",1000,2023-05-15
+L011,Python for Pros,Books,InfluencerX,"$39.99",250,06/01/2023
+L012,SmartPower+ Portable Charger,Electronics,TechGuruTom,"$45.00",300,2023-06-20
+L013,Minimalist Wall Clock,Homeware,CozyHome,"$35.00",150,Jul 05, 2023
+L014,Classic Denim Jacket,Fashion,StyleBySophie,"$65.00",220,2023-07-15
+L015,Artisanal Honey Jar,Groceries,TheDailyGrind,"$15.99",400,08/01/2023
+L016,Cloud Computing Explained,Books,InfluencerX,"$42.50",180,2023-08-20
+L017,Nova Noise-Cancelling Headphones,Electronics,TechGuruTom,"$249.99",75,Sep 05, 2023
+L018,Scented Soy Candle Set,Homeware,CozyHome,"$32.00",300,2023-09-15
+L019,Leather Crossbody Bag,Fashion,StyleBySophie,"$120.00",90,Oct 01, 2023
+L020,Premium Olive Oil,Groceries,TheDailyGrind,"$18.50",600,2023-10-20
+L021,The SQL Masterclass,Books,InfluencerX,"$59.00",100,11/05/2023
+L022,4K Streaming Stick,electronics,TechGuruTom,"$49.99",400,2023-11-15
+L023,Ceramic Planter Pot,Homeware,CozyHome,"$18.00",250,Dec 01, 2023
+L024,Chunky Knit Beanie,Fashion,StyleBySophie,"$24.50",350,2023-12-20
+L025,Gluten-Free Pasta,Groceries,TheDailyGrind,"$5.99",800,2024-01-05
+L026,Data Science from Scratch,Books,InfluencerX,"$52.00",130,2024-01-15
+L027,Mechanical Keyboard,Electronics,TechGuruTom,"$150.00",120,02/01/2024
+L028,Velvet Cushion Covers (Set of 2),Homeware,CozyHome,"$28.99",180,2024-02-20
+L029,Aviator Sunglasses,Fashion,StyleBySophie,"$75.00",200,Mar 05, 2024
+L030,Organic Trail Mix,Groceries,TheDailyGrind,"$12.99",700,2024-03-15
+L031,Designing Data-Intensive Apps,books, InfluencerX ,"$65.00",90,04/01/2024
+L032,Portable Bluetooth Speaker,Electronics,TechGuruTom,"$55.00",250,2024-04-20
+L033,Bamboo Cutting Board,Homeware,CozyHome,"$22.50",300,May 05, 2024
+L034,Silk Head Scarf,fashion,StyleBySophie,"$29.99",280,2024-05-15
+L035,Fair-Trade Coffee Pods,Groceries,TheDailyGrind,"$19.99",600,06/01/2024
+L036,The Phoenix Project,Books,InfluencerX,"$25.00",300,2024-06-20
+L037,Smart WiFi Plug (2-pack),Electronics,TechGuruTom,"$19.99",500,2023-01-10
+L038,Ergonomic Office Mousepad,Electronics,GamerGear,"$24.99",200,2023-01-20
+L039,Luxe Faux Fur Blanket,Homeware,CozyHome,"$89.00",70,2023-02-05
+L040,Bohemian Maxi Dress,Fashion,StyleBySophie,"$79.50",150,2023-02-25
+L041,Organic Coconut Water (6-pack),Groceries,TheDailyGrind,"$14.99",450,Mar 10, 2023
+L042,The Pragmatic Programmer,Books,InfluencerX,"$44.50",110,03/25/2023
+L043,HD Webcam with Ring Light,electronics,GamerGear,"$69.99",130,2023-04-12
+L044,Decorative Storage Baskets,Homeware,CozyHome,"$45.00",100,2023-04-28
+L045,Statement Hoop Earrings,Fashion,StyleBySophie,"$22.00",400,May 10, 2023
+L046,Organic Almond Butter,Groceries,TheDailyGrind,"$13.50",350,2023-05-25
+L047,Clean Code,Books,InfluencerX,"$38.00",280,06/10/2023
+L048,RGB Gaming Keyboard,Electronics,GamerGear,"$99.00",90,2023-06-25
+L049,Geometric Bookshelf,Homeware,CozyHome,"$129.00",60,Jul 12, 2023
+L050,Layered Gold Necklace,Fashion,StyleBySophie,"$35.00",320,2023-07-28
+L051,Spicy Chili Oil,Groceries,TheDailyGrind,"$9.99",750,08/10/2023
+L052,Mythical Man-Month,Books,InfluencerX,"$30.00",220,2023-08-25
+L053,Curved Gaming Monitor 27",Electronics,GamerGear,"$349.00",50,Sep 12, 2023
+L054,Linen Duvet Cover Set,homeware,CozyHome,"$159.00",80,2023-09-28
+L055,Suede Ankle Boots,Fashion,StyleBySophie,"$95.00",160,Oct 10, 2023
+L056,Aged Balsamic Vinegar,Groceries,TheDailyGrind,"$25.00",200,2023-10-25
+L057,Fundamentals of Data Engineering,Books,InfluencerX,"$62.00",70,11/10/2023
+L058,High-Fidelity Headset,Electronics,GamerGear,"$179.99",110,2023-11-25
+L059,Marble Coaster Set,Homeware,CozyHome,"$19.99",400,Dec 12, 2023
+L060,Cashmere Blend Sweater,Fashion,StyleBySophie,"$150.00",100,2023-12-28
+L061,Artisanal Sourdough Bread,Groceries,TheDailyGrind,"$7.50",150,2024-01-10
+L062,The Goal,Books,InfluencerX,"$22.00",350,2024-01-25
+L063,Wireless Charging Pad,Electronics,TechGuruTom,"$33.00",350,02/10/2024
+L064,Microfiber Sheet Set,Homeware,CozyHome,"$59.99",200,2024-02-25
+L065,Wide-Leg Linen Pants,Fashion,StyleBySophie,"$55.00",250,Mar 10, 2024
+L066,Keto-Friendly Snack Bars,Groceries,TheDailyGrind,"$24.99",500,2024-03-25
+L067,Cracking the Coding Interview,Books,InfluencerX,"$35.50",190,04/10/2024
+L068,Smart Thermostat,Electronics,TechGuruTom,"$199.00",60,2024-04-25
+L069,Gallery Wall Frame Set,Homeware,CozyHome,"$79.00",90,May 10, 2024
+L070,Satin Midi Skirt,fashion,StyleBySophie,"$49.99",180,2024-05-25
+L071,Kombucha Starter Kit,Groceries,TheDailyGrind,"$40.00",100,06/10/2024
+L072,System Design Interview,Books,InfluencerX,"$48.00",140,2024-06-25
+L073,Video Doorbell,Electronics,TechGuruTom,"$179.00",85,2023-03-01
+L074,Gaming Chair with Lumbar Support,Electronics,GamerGear,"$299.00",40,2023-03-15
+L075,Ceramic Diffuser,Homeware,CozyHome,"$49.99",120,2023-04-01
+L076,Pleated Tennis Skirt,Fashion,StyleBySophie,"$39.00",280,2023-04-15
+L077,Manuka Honey,Groceries,TheDailyGrind,"$45.00",100,May 01, 2023
+L078,Structure and Interpretation of Comp Progs,Books,InfluencerX,"$75.00",50,2023-05-15
+L079,Condenser Microphone,Electronics,GamerGear,"$129.99",70,06/01/2023
+L080,Plush Bath Towel Set,Homeware,CozyHome,"$65.00",180,2023-06-15
+L081,Trench Coat,Fashion,StyleBySophie,"$180.00",80,Jul 01, 2023
+L082,Matcha Green Tea Powder,Groceries,TheDailyGrind,"$28.00",250,2023-07-15
+L083,Domain-Driven Design,Books,InfluencerX,"$55.00",160,08/01/2023
+L084,External SSD 1TB,Electronics,GamerGear,"$99.99",200,2023-08-15
+L085,Weighted Blanket,Homeware,CozyHome,"$110.00",100,Sep 01, 2023
+L086,Faux Leather Leggings,Fashion,StyleBySophie,"$45.00",300,2023-09-15
+L087,Organic Maple Syrup,Groceries,TheDailyGrind,"$16.50",300,Oct 01, 2023
+L088,Refactoring by Martin Fowler,Books,InfluencerX,"$50.00",120,2023-10-15
+L089,VR Headset,Electronics,GamerGear,"$399.00",30,11/01/2023
+L090,Acacia Wood Salad Bowl,Homeware,CozyHome,"$38.00",150,2023-11-15
+L091,Oversized Blazer,Fashion,StyleBySophie,"$85.00",140,Dec 01, 2023
+L092,Gourmet Sea Salt,Groceries,TheDailyGrind,"$11.00",400,2023-12-15
+L093,The Manager's Path,Books,InfluencerX,"$28.50",250,2024-01-01
+L094,Smart Light Bulbs (4-pack),Electronics,TechGuruTom,"$39.99",600,2024-01-15
+L095,Electric Kettle,Homeware,CozyHome,"$42.00",220,02/01/2024
+L096,Satin Blouse,Fashion,StyleBySophie,"$42.50",190,2024-02-15
+L097,Organic Turmeric Powder,Groceries,TheDailyGrind,"$9.50",800,Mar 01, 2024
+L098,The Unicorn Project,Books,InfluencerX,"$26.00",320,2024-03-15
+L099,Laptop Stand,Electronics,TechGuruTom,"$28.00",450,04/01/2024
+L100,French Press Coffee Maker,Homeware,CozyHome,"$34.99",180,2024-04-15
