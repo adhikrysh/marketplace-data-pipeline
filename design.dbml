@@ -1,0 +1,57 @@
+Project marketplace {
+  database_type: "MySQL"
+}
+
+/* 1) Customers */
+Table customers {
+  customer_id varchar(16) [pk]
+  first_name  varchar(80)  [not null]
+  last_name   varchar(80)  [not null]
+  email       varchar(255) // nullable in your data
+  join_date   date         [not null]
+  city        varchar(64)  // nullable
+}
+
+/* 2) Listings (keep seller/category inline) */
+Table listings {
+  listing_id      varchar(16)   [pk]
+  product_name    varchar(255)  [not null]
+  category        varchar(64)   [not null]
+  seller_id       varchar(64)   [not null]
+  price           decimal(10,2) [not null]
+  stock_quantity  int           [not null]
+  listing_date    date          [not null]
+}
+
+/* 3) Orders (header with only existing columns) */
+Table orders {
+  order_id     int         [pk]
+  customer_id  varchar(16) [not null, ref: > customers.customer_id]
+}
+
+/* 4) Order items (join table for M:N Orders↔Listings) */
+Table order_items {
+  order_id          int         [not null, ref: > orders.order_id]
+  listing_id        varchar(16) [not null, ref: > listings.listing_id]
+  quantity          int         [not null]
+  price_at_purchase decimal(10,2) [not null]
+
+  Indexes {
+    (order_id, listing_id) [pk]  // composite primary key
+  }
+}
+
+/* 5) Item-level status history (event log) */
+Table order_item_status_history {
+  order_id         int         [not null]
+  listing_id       varchar(16) [not null]
+  status_timestamp datetime    [not null]
+  order_status     varchar(32) [not null] // inline text status from CSV
+
+  Indexes {
+    (order_id, listing_id, status_timestamp) [pk]
+  }
+}
+
+/* Composite FK: history -> order_items */
+Ref: order_item_status_history.(order_id, listing_id) > order_items.(order_id, listing_id)
